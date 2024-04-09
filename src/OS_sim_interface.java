@@ -1,13 +1,3 @@
-
-/**
- * 
- * @author mikec
- *
- */
-
-/*
- * 
- */
 public interface OS_sim_interface {
 	
 	//This interface file MUST not be changed in anyway
