@@ -1,11 +1,3 @@
-// You should develop your tests here to assure yourself that your class 
-// meets the UR published in the coursework specification.
-
-//3 example tests are provided - but these may not be used as is in the marking scripts
-
-//Note that you may use *any* classes in this Tests class that are available in SE 17. 
-
-
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
